@@ -70,6 +70,9 @@ p, span {
 section {
     margin-bottom: 25px;
 }
+contact link li{
+    margin-left: 2px;
+}
 
 ul {
     padding-left: 18px;
